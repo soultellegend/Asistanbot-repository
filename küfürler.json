@@ -1,6 +1,4 @@
-{"küfürler":
- "amk", 
- "mal"
-
-
-}
+ küfürler : [
+           {"amk"},
+           {"mal"},
+          ]
